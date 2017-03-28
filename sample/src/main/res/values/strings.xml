@@ -2,6 +2,7 @@
     <string name="app_name">Sample</string>
     <string name="message_granted">All permissions have been granted.</string>
     <string name="message_denied">Permission \"%1$s\" has been denied.</string>
+    <string name="message_auto_denied">Permission \"%1$s\" has been denied and never ask again.</string>
     <string name="button_title_write_storage">Write to Storage</string>
     <string name="button_title_read_storage">Read from Storage</string>
     <string name="button_title_read_phone_contacts">Read Phone Contacts</string>
